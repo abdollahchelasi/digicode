@@ -30,6 +30,22 @@ footer {visibility : hidden;}
     40%{text-shadow: #dceb53 2px 2px 9px;}
     
 }
+
+
+.css-lrlib.e1akgbir9{
+background-image: url("https://img.freepik.com/free-vector/neon-grid-background_53876-91657.jpg");
+
+}
+.css-6qob1r.e1akgbir3{
+    background-image: url("https://img.freepik.com/free-vector/neon-grid-background_53876-91657.jpg");
+}
+.css-1uy0bt2.e1akgbir6{
+    background:linear-gradient(to left,rgb(46, 143, 156),blue)
+}
+
+
+
+
 .css-183lzff.e170wjxx0{
     text-align: center;
     font-family: 'Lalezar', cursive;
@@ -43,6 +59,7 @@ footer {visibility : hidden;}
     animation-iteration-count: infinite;
 
 }
+
 .css-1cypcdb.e1akgbir11{
 direction: ltr;
 text-align: center;
@@ -51,18 +68,47 @@ text-align: center;
 padding-left: 100px;
 } */
 
+
+
+
+.css-1avcm0n.e13qjvis2{
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm378-09-x.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=dc095aeb8ad2929b3b13b7ba25fa42ff");
+    background-size: cover;
+
+}
+.block-container.css-z5fcl4.e1g8pov64{
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm378-09-x.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=dc095aeb8ad2929b3b13b7ba25fa42ff");
+    background-size: cover;
+}
+
+.main.css-uf99v8.e1g8pov65{
+
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm378-09-x.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=dc095aeb8ad2929b3b13b7ba25fa42ff");
+    background-size: cover;
+
+}
+
+
+
+
+
+
+
 .css-10trblm.e16nr0p30{
     font-family: 'Lalezar', cursive;
 }
 form{
-    background-color: #121f15;
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm378-09-x.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=dc095aeb8ad2929b3b13b7ba25fa42ff");
+    background-size: cover;
     padding: 11px;
     border-radius: 11px;
     text-align: center;
     border-style: groove;
+    margin-bottom: 22px;
 }
 .css-1v0mbdj.ebxwdo61 img{
-background:linear-gradient(to left,rgb(245, 128, 128),rgb(101, 101, 245));
+    text-align: center;
+/* background:linear-gradient(to left,rgb(245, 128, 128),rgb(101, 101, 245)); */
 padding: 2px;
 border-radius: 5px;
 }

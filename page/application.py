@@ -55,7 +55,7 @@ with col4:
 
 
 with col3:
-    with st.expander("فوتو قشمی", expanded=True):
+    with st.expander("✨ فوتو قشمی", expanded=True):
         st.image("img/photo.png")
         col1,col2=st.columns([5,1])
         with col1:    

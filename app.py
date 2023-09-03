@@ -83,4 +83,4 @@ with right:
     st.markdown("[📞 تماس](tel:00989335825325)")
     
 st.divider()
-st.markdown("[طراح و برنامه نویس : عبداالله چلاسی](https://abdollahchelasi.ir)")
+st.markdown("[طراح و برنامه نویس : عبداالله چلاسی](https://abdollahchelasi.streamlit.app/)")

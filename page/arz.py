@@ -17,7 +17,7 @@ col1,col3 = st.columns(2)
             
 
 with col1:
-    with st.expander("وبسایت ارز دیجیتال", expanded=True):
+    with st.expander("✨ وبسایت ارز دیجیتال", expanded=True):
         st.image("img/arz.png")
         col1,col2=st.columns([5,1])
         with col1:    
@@ -55,7 +55,7 @@ with col1:
                 
     
 with col3:
-    with st.expander("قیمت ارز دیجیتال", expanded=True):
+    with st.expander("✨ قیمت ارز دیجیتال", expanded=True):
         st.image("img/qarz.png")
         col1,col2=st.columns([5,1])
         with col1:    

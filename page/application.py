@@ -65,11 +65,11 @@ with col3:
         
         # st.image(url="https://cdn.iconscout.com/icon/free/png-256/free-python-3629591-3032289.png",width=60)
 
-        if st.markdown("1000 تومان"):
+        if st.markdown("80000 تومان"):
             url = "https://www.zarinpal.com/pg/rest/WebGate/PaymentRequest.json"
             data = {
                     "MerchantID": merchant_id,
-                    "Amount": 1000,
+                    "Amount": 80000,
                     "Description": "فروشگاه عبدالله",
                     # 'Mobile': mobile,
                     # 'Email': email,

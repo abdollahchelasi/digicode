@@ -62,6 +62,8 @@ with col3:
             st.caption("برنامه ویرایش عکس که میتونید فایل مورد نظر رو آپلود کنید و عرض و ارتفاع آن را مشخص کنید و فایل ویرایش شده رو دانلود کنید")
         with col2:
             st.image("img/p.png",width=20)
+        st.markdown("[وبسایت](https://photo.abdollahchelasi.repl.co)")
+
         
         # st.image(url="https://cdn.iconscout.com/icon/free/png-256/free-python-3629591-3032289.png",width=60)
 

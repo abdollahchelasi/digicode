@@ -24,6 +24,8 @@ with col1:
             st.caption("نمایش آخرین چارت نماد های ارز دیجیتال")
         with col2:
             st.image("img/p.png",width=20)
+        st.markdown("[وبسایت](https://bitcoinpy.abdollahchelasi.repl.co)")
+
         
         # st.image(url="https://cdn.iconscout.com/icon/free/png-256/free-python-3629591-3032289.png",width=60)
 
@@ -62,10 +64,14 @@ with col3:
             st.caption("نمایش آخرین قیمت ارز دیجیتال به دلار , قیمت رو به صورت لحظه ای مشاهده کنید")
         with col2:
             st.image("img/p.png",width=20)
+        st.markdown("[وبسایت](https://arz.abdollahchelasi.repl.co)")
+            
         
         # st.image(url="https://cdn.iconscout.com/icon/free/png-256/free-python-3629591-3032289.png",width=60)
 
+        
         if st.markdown("50000 تومان"):
+            
             url = "https://www.zarinpal.com/pg/rest/WebGate/PaymentRequest.json"
             data = {
                     "MerchantID": merchant_id,
